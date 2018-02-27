@@ -98,6 +98,7 @@ class ShopifySDK
         'CustomCollection',
         'Customer',
         'CustomerSavedSearch',
+        'DraftOrder',
         'Discount',
         'Event',
         'FulfillmentService',
